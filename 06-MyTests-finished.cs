@@ -181,7 +181,7 @@ namespace UIPutttyTests
             btnHelp.Click();
 
 
-            //TROCHE NACIAGANE Xd
+            
             Assert.AreEqual(false, window.IsClosed, "Asercja 07: Sprawdzenie czy okno jest widoczne po kliknieciu Help ");
             Thread.Sleep(sleepTimeShort);
             window.Close();
@@ -201,7 +201,7 @@ namespace UIPutttyTests
             btnOK.Click();
 
 
-            //TROCHE NACIAGANE Xd
+       
             Assert.AreEqual(false, window.IsClosed, "Asercja 07: Sprawdzenie czy okno jest widoczne po kliknieciu Help ");
             Thread.Sleep(sleepTimeShort);
             window.Close();
@@ -221,7 +221,7 @@ namespace UIPutttyTests
             btnNew.Click();
 
 
-            //TROCHE NACIAGANE Xd
+          
             Assert.AreEqual(false, window.IsClosed, "Asercja 07: Sprawdzenie czy okno jest widoczne po kliknieciu Help ");
             Thread.Sleep(sleepTimeShort);
             window.Close();
@@ -241,7 +241,7 @@ namespace UIPutttyTests
             btnPath.Click();
 
 
-            //TROCHE NACIAGANE Xd
+
             Assert.AreEqual(false, window.IsClosed, "Asercja 07: Sprawdzenie czy okno jest widoczne po kliknieciu Help ");
             Thread.Sleep(sleepTimeShort);
             window.Close();
